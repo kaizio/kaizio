@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a Solution Architect at AWS.
+
+You can find me working **aws-samples/aws-cdk-examples** repo!
 
 <!--
 **kaizio/kaizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
